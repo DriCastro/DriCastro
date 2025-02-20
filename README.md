@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Olá
+
+Sou uma desenvolvedora Full Stack iniciante formada pelo SENAC, apaixonada por tecnologia e programação. 
+
+Atualmente aprendendo e aprimorando minhas habilidades em:
+
+- ***Front-end:*** HTML, CSS, JavaScript, React
+- ***Back-end:*** Node.js, MongoDB
+- ***Ferramentas:*** Git, GitHub, VS Code
+
+Estou em busca de novos desafios e oportunidades para crescer na carreira de desenvolvimento web. 
+
+Vamos nos conectar! 😊
+
